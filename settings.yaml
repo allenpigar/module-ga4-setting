@@ -1,0 +1,5 @@
+  - category: "analytics"
+    key: "google_property_id"
+    keyFriendly: "Google Property ID"
+    value: ""
+    dataType: "text"
